@@ -23,6 +23,9 @@ sudo ./log_to_file csi_data.dat
 
 3. 在另一台安装有Linux 802.11n CSI Tool 的计算机上重复上述操作. 双向CSI采集需要两台安装有CSI Tool的计算机.
 
+# 截图
+<img src="pic1.png" width = "100%" />
+
 # 说明
 此代码在Ubuntu 12.04下测试通过，下载地址 http://releases.ubuntu.com/12.04.5/
 
@@ -48,6 +51,9 @@ sudo ./log_to_file csi_data.dat
 ~~~
 
 3. Repeat this on another computer with Linux 802.11n CSI Tool .Bidirectional CSI acquisition requires two computers equipped with CSI Tools.
+
+# Screenshot
+<img src="pic1.png" width = "100%" />
 
 # Notice
 This code work well under Ubuntu 12.04, download address http://releases.ubuntu.com/12.04.5/
