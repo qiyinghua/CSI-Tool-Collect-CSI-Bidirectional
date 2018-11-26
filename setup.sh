@@ -3,7 +3,7 @@ sudo modprobe -r iwldvm iwlwifi mac80211
 modprobe -r iwlwifi mac80211 cfg80211
 modprobe iwlwifi debug=0x40000 connector_log=0x1
 if [ "$#" -ne 2 ]; then
-    echo "default setting!"
+    echo "Going to use default settings!"
     chn=64
     bw=HT20
 else
