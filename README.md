@@ -2,7 +2,7 @@
 
 # Usage
 This code is based on Linux 802.11n CSI Tool. Make sure you have installed it and can use it properly.
-https://github.com/dhalperi/linux-80211n-csitool.
+http://dhalperi.github.io/linux-80211n-csitool/.
 
 This code runs in the monitor mode of Linux 802.11n CSI Tool,download this code and replace to "linux-80211n-csitool-supplementary/injection" folder.
 
@@ -32,7 +32,7 @@ This code work well under Ubuntu 12.04, download address http://releases.ubuntu.
 
 # 使用 
 此代码基于Linux 802.11n CSI Tool,请确保你已经安装并可以正常使用 
-https://github.com/dhalperi/linux-80211n-csitool.
+http://dhalperi.github.io/linux-80211n-csitool/.
 
 此代码运行在Linux 802.11n CSI Tool的监控模式下，下载此代码并替换到 linux-80211n-csitool-supplementary/injection 文件夹下.
 
